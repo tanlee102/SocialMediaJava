@@ -1,5 +1,7 @@
 The social networking platform is designed as a comprehensive space for users to connect, share, and interact through various features. It enables user registration and profile management, allowing users to post content such as text, images, and videos. Real-time communication is facilitated through messaging and commenting features, while users can also engage with content by liking, sharing, and following others. The platform includes administrative tools for managing user activity and moderating content. Future development plans focus on enhanced privacy settings, AI-driven content recommendations, and optimizing the platform's search capabilities.
 
+The concept of objects, process, and system: [Thực tập.pdf](https://github.com/user-attachments/files/16691386/Th.c.t.p.pdf)
+
 Use Case Diagram:
 - Actors: User, Admin
 - Actions:
